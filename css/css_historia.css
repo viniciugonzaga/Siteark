@@ -685,7 +685,7 @@ nav {
     }
   
     .display-area p {
-      font-size: 0.6rem; /* Reduz um pouco o tamanho do texto */
+      font-size: 0.8rem; /* Reduz um pouco o tamanho do texto */
       padding:  5%; /* Ajusta o espaçamento interno */
       width: 70%;
       color: #fffb1f;
