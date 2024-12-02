@@ -676,7 +676,7 @@ nav {
     .display-area {
       padding: 10px; /* Adiciona espaçamento interno */
       border-radius: 8%; /* Ajusta o arredondamento */
-      width: 80%;
+      width: 90%;
     }
   
     .display-area img {
@@ -685,7 +685,7 @@ nav {
     }
   
     .display-area p {
-      font-size: 0.9rem; /* Reduz um pouco o tamanho do texto */
+      font-size: 1rem; /* Reduz um pouco o tamanho do texto */
       padding:  5%; /* Ajusta o espaçamento interno */
       width: 80%;
       color: #fffb1f;
@@ -722,8 +722,8 @@ nav {
 
 /* Estilo geral do carrossel */
 .carousel {
-    width: 50%;
-    max-width: 900px;
+    width: 60%;
+    max-width: 1000px;
     margin: 10px auto;
     overflow: hidden; /* Esconde as imagens fora do contêiner */
     border-radius: 10px;
