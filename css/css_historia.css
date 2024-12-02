@@ -614,7 +614,7 @@ nav {
     font-size: 1.2rem; /* Reduzi um pouco o tamanho da fonte para caber melhor */
     line-height: 1.6; /* Ajusta o espaçamento entre linhas */
     color: #444; /* Uma cor neutra para maior contraste */
-    background: linear-gradient(45deg, #fdf2b3, #ffe817, #fcf970, #fdf2b3, #fffc44);
+    background: linear-gradient(45deg, #ff821b, #ffe817, #fa5de5, #fffc38, #ff9e0c);
     background-size: 300%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -667,23 +667,28 @@ nav {
     /* Container Principal */
     .gallery-container {
       gap: 15px; /* Reduz o espaço entre os elementos */
+     width: 90%;
+     
+     margin-left: 5%;
     }
   
     /* Área de Exibição */
     .display-area {
       padding: 10px; /* Adiciona espaçamento interno */
       border-radius: 8%; /* Ajusta o arredondamento */
+      width: 80%;
     }
   
     .display-area img {
-      width: 250px; /* Reduz a largura da imagem */
+      width: 50%; /* Reduz a largura da imagem */
       box-shadow: 0 3px 8px rgba(255, 238, 0, 0.5); /* Ajusta a sombra */
     }
   
     .display-area p {
-      font-size: 1rem; /* Reduz um pouco o tamanho do texto */
-      padding:  35px; /* Ajusta o espaçamento interno */
-      max-width: 90%; /* Limita a largura para caber em telas menores */
+      font-size: 0.6rem; /* Reduz um pouco o tamanho do texto */
+      padding:  5%; /* Ajusta o espaçamento interno */
+      width: 70%;
+      color: #fffb1f;
     }
   
     /* Lista de Ícones */
@@ -1187,3 +1192,4 @@ footer {
   }
   
 /* Responsividade para telas menores */
+
