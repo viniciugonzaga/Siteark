@@ -614,7 +614,7 @@ nav {
     font-size: 1.2rem; /* Reduzi um pouco o tamanho da fonte para caber melhor */
     line-height: 1.6; /* Ajusta o espaçamento entre linhas */
     color: #444; /* Uma cor neutra para maior contraste */
-    background: linear-gradient(45deg, #ff821b, #ffe817, #fa5de5, #fffc38, #ff9e0c);
+    background: linear-gradient(45deg, #ff821b, #ffe817, #ffffff, #fffc38, #ff9e0c);
     background-size: 300%;
     background-clip: text;
     -webkit-background-clip: text;
@@ -676,7 +676,7 @@ nav {
     .display-area {
       padding: 10px; /* Adiciona espaçamento interno */
       border-radius: 8%; /* Ajusta o arredondamento */
-      width: 90%;
+      width: 80%;
     }
   
     .display-area img {
@@ -685,9 +685,9 @@ nav {
     }
   
     .display-area p {
-      font-size: 1rem; /* Reduz um pouco o tamanho do texto */
+      font-size: 0.8rem; /* Reduz um pouco o tamanho do texto */
       padding:  5%; /* Ajusta o espaçamento interno */
-      width: 80%;
+      width: 70%;
       color: #fffb1f;
     }
   
