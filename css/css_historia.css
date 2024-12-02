@@ -622,7 +622,7 @@ nav {
     animation: gradiente-animado 4s ease infinite;
     max-width: 800px; /* Define uma largura máxima para centralizar melhor */
     margin: 2% auto; /* Centraliza na tela */
-    text-align: justify; /* Justifica o texto para alinhamento uniforme */
+   
     border: 1px solid #ffcc00; /* Opcional: borda decorativa */
     border-radius: 10%; /* Bordas arredondadas */
     padding: 15px 40px; /* Adiciona espaçamento interno */
